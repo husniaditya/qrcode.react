@@ -1,3 +1,9 @@
+## [4.2.0] - 2024-12-11
+
+### Added
+- Added React v19 to `peerDependencies` (#381)
+
+
 ## [4.1.0] - 2024-10-21
 
 ### Added
